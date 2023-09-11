@@ -1,70 +1,91 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# DashBoard
 
-## Available Scripts
+In this Project i made the DashBoard using ReactJs , Material UI , Nivo Chart , React Formik , FullCalendar , Data Grid , React Pro Sidebar
 
-In the project directory, you can run:
+## Technologies Used :-
 
-### `npm start`
+`React JS`
+<br>
+`Material UI` <br>
+`Nivo Charts`<br>
+`React Formik & Yup` <br>
+`FullCalendar` <br>
+`Data Grid` <br>
+`React Pro Sidebar`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Description :-
 
-### `npm test`
+Firstly with the help of **Material UI** we set up the light mode and dark Mode functionality and all these icons are used from Material UI
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**DarkMode**
 
-### `npm run build`
+![Screenshot (46)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/7a4d4364-83fa-4bab-a8df-e2fb6e921a71)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**LightMode**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot (47)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/03a8e7b5-77b6-440c-9114-688f9daac1b6)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Then the Sidebar i made up with **React Pro Sidebar** it give full functionality to wrapit
 
-### `npm run eject`
+![Screenshot (58)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/7d7340bb-954e-493f-ba1c-7549d47308bd)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The Form are made with the help of **React Formik** and set validation through **Yup**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot (51)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/09217638-609f-4252-bf3c-eb029314a903)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I made calendar with the use of **FullCalendar** it provide many features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Screenshot (52)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/44449f57-16b6-4cc6-83f0-4f77ac849b89)
 
-## Learn More
+The FAQ page are made with the help of **Material UI** 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot (53)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/1e219626-34dd-428e-bb83-30517fb101d0)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Then All these Charts (Bar,Pie,Line,Geographical) are made with **Nivo Charts**
 
-### Code Splitting
+![Screenshot (57)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/fb8aa79e-2745-49a3-8214-0bd9c7a4af4b)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Screenshot (56)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/ed25314f-8fe9-491d-b1db-02fff12b23cc)
 
-### Analyzing the Bundle Size
+![Screenshot (55)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/e16fbfa9-8ae2-44d5-a530-5c5392c88f53)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot (54)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/9a0aef87-c9ed-4e5f-a0c2-dbd60fad87d7)
 
-### Making a Progressive Web App
+To make Data section i download some data from internet then all data are set manually not fetch from any API and i made all Data Section like (Manage Team , Invoices ) with the use of **Data Grid** it provide lots of features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot (48)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/6fc560f3-3e0c-4847-8bbc-0dcc9285b34f)
 
-### Advanced Configuration
+![Screenshot (49)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/697f6f25-a5ea-473d-91b7-817db7dd6fa4)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Screenshot (50)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/3e842ec5-d6d8-410d-ac95-154e60a28ee8)
 
-### Deployment
+**This is the Dashboard Page**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Screenshot (59)](https://github.com/Aadiii01/Dashboard_ReactJs/assets/134622355/d873c8df-7157-4825-b913-0a4c2b9f254e)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+## Installation
+
+**Install my-project with npm**
+
+```bash
+  npx create-react-app project_name
+  cd project_name
+```
+**To Install React Formik, Full Calendar, Data Grid, Material UI, Nivo Charts, React Pro Sidebar, React Router `run this command` in console**
+
+```bash
+npm install @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup @fullcalendar/react @fullcalendar/interaction @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+```
+**To Run**
+```bash
+  npm start
+```
